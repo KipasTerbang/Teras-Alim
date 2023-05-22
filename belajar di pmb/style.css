@@ -9,6 +9,7 @@
 }
 
 aside {
+  font-family: 'Roboto', sans-serif;
   position: absolute;
   top: 75%;
   right: 0;
@@ -17,6 +18,11 @@ aside {
 }
 
 main {
+  font-family: 'Roboto', sans-serif;
   display: flex;
   justify-content: flex-end;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
 }
