@@ -1,0 +1,16 @@
+.text {
+  max-width: 1000px;
+  margin-right: auto;
+  text-align: justify;
+}
+.border {
+  border: 2px solid;
+  text-align: center;
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+}
