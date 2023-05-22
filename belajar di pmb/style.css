@@ -9,8 +9,14 @@
 }
 
 aside {
-  width: 30%;
-  padding-left: 15px;
-  margin-left: 15px;
-  float: right;
+  position: absolute;
+  top: 75%;
+  right: 0;
+  transform: translateY(-50%);
+  margin-left: 70%;
+}
+
+main {
+  display: flex;
+  justify-content: flex-end;
 }
